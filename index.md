@@ -4,7 +4,7 @@ title: ""
 ---
 
 Reliable & Detail-Oriented | Accounting Major  
-tanzim13579@gmail.com • [LinkedIn](https://linkedin.com/in/tanjim-m-khan)
+📧 [tanzim13579@gmail.com](mailto:tanzim13579@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/tanjim-m-khan)
 
 ---
 
@@ -52,6 +52,8 @@ Monipur High School & College — GPA 4.28
 
 ---
 
-## **Contact**
-📧 Email: tanzim13579@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/tanjim-m-khan
+## Contact
+
+- 📧 [tanzim13579@gmail.com](mailto:tanzim13579@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/tanjim-m-khan)
+
