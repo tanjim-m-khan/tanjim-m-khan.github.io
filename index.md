@@ -1,3 +1,8 @@
+---
+layout: home
+title: ""
+---
+
 Reliable & Detail-Oriented | Accounting Major  
 tanzim13579@gmail.com • [LinkedIn](https://linkedin.com/in/tanjim-m-khan)
 
